@@ -2,6 +2,7 @@ body{
   margin: 0px;
   padding: 0px;
 }
+
 .top{
   background-color: #3B5998;
   margin: 0px;
@@ -10,12 +11,14 @@ body{
   height :10vh;
   display: flex;
 }
+
 .right{
   color: white;
   flex:3;
   padding-left: 17%;
 
 }
+
 .left-1{
   font-size: 14px;
   color: white;
@@ -25,14 +28,15 @@ body{
   margin-left: -3%;
   padding-top: 0.2%;
 }
+
 .left-2{
   font-size: 14px;
   color: white;
   flex:1;
   line-height: 25px;
   padding-top: 0.2%;
-
 }
+
 .left-3{
   font-size: 14px;
   flex:1;
@@ -40,9 +44,11 @@ body{
   padding-top: 0.9%;
   padding-right: 9em;
 }
+
 .forgot{
   color: #8FB4CC;
 }
+
 .left-3 button{
   color: white;
   background:#436fc1;
@@ -50,6 +56,7 @@ body{
   border: 1px solid #0e2c66;
   font-size: 12px;
 }
+
 .middle{
 padding-top:1%;
 padding-left: 19%;
@@ -57,14 +64,16 @@ background: linear-gradient(0deg,#D3D8E8,#FFFFFF);
 height: 74vh;
 display: flex;
 }
+
 .m-left{
   flex:1;
   margin-right: 4em;
   margin-top:-1.5em;
 }
+
 .m-right{
   flex:1;
-  }
+}
 
 .mainform input[type="text"],.mainform input[type="password"]{
   padding:6px;
@@ -74,9 +83,11 @@ display: flex;
   border :1px solid #adaec9;
   line-height: 10px;
 }
+
 .bod{
   line-height: 9px;
 }
+
 .container{
   margin-left:20em;
   padding-top:2em;
